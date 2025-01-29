@@ -28,12 +28,19 @@ Install the dependencies:
 Bash
 
 # Specific instructions for installing the required dependencies
-Set the environment variables:
+Environment Variables:
+
 Bash
 
-# Specific instructions for setting the environment variables
-Run the pipeline:
+export AWS_ACCESS_KEY_ID=<your_aws_access_key_id>
+export AWS_SECRET_ACCESS_KEY=<your_aws_secret_access_key>
+How to Use
+
 Bash
+
+# Run the pipeline
+./run_pipeline.sh 
+
 
 # Specific instructions for running the pipeline
 Contributions
