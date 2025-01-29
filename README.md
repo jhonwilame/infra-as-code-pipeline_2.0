@@ -71,8 +71,3 @@ Este projeto está licenciado sob a licença JW
 * **Exemplos de código:** Mostre exemplos de código para ajudar os usuários a entender como utilizar o projeto.
 * **Atualize regularmente:** Mantenha o README atualizado à medida que o projeto evolui.
 
-
-
-
-
-![arquitetura](https://github.com/user-attachments/assets/6bf42ea4-cd8a-45f6-88d1-dec1687f4082)
